@@ -1,0 +1,44 @@
+{
+   "nombre": "Juan",
+   "tipo": "humano",
+   "le gusta": [
+      "conversar",
+      "jugar fichines",
+      "futbol"
+   ],
+   "mascota": [
+      {
+         "nombre": "Rocco",
+         "tipo": "perro",
+         "raza": "Labrador",
+         "edad": 5,
+         "le gusta": [
+            "comer",
+            "ladrar",
+            "correr a las palomas"
+         ]
+      },
+      {
+         "edad": 2,
+         "le gusta": [
+            "maullar",
+            "cazar",
+            "jugar"
+         ],
+         "nombre": "Luis",
+         "tipo": "gato",
+         "raza": "siames"
+      },
+      {
+         "edad": 5,
+         "le gusta": [
+            "cantar",
+            "gritat",
+            "comer"
+         ],
+         "nombre": "Pepe",
+         "tipo": "ave",
+         "raza": "loro"
+      }
+   ]
+}
