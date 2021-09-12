@@ -1,0 +1,5 @@
+.env
+__pycache__/setting.cpython-38.pyc
+__pycache__/settings.cpython-38.pyc
+.DS_Store
+thumbs.db
